@@ -37,7 +37,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Decrypts_Morse_code]**
+- **[Decrypt_Morse_code]**
 
 <!-- GETTING STARTED -->
 
@@ -105,7 +105,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Isuues Pages](https://github.com/0sugo/Morse_code/issues)
+Feel free to check the [Isues Pages](https://github.com/0sugo/Morse_code/issues)
 
 
 <!-- SUPPORT -->
